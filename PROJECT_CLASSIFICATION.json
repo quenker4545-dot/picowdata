@@ -1,0 +1,13 @@
+{
+  "schema": "repo-classification-v1",
+  "repository": "picowdata",
+  "visibility": "public",
+  "category": "06-archive-candidate",
+  "status": "formerly empty; placeholder README only; purpose unverified",
+  "archived": false,
+  "retain_until_owner_review": true,
+  "topics_suggested": [
+    "unclassified"
+  ],
+  "github_topics_applied": false
+}
